@@ -61,3 +61,6 @@ C:\Users\Crisanto\Desktop\Nueva carpeta (2)\InventarioFarmacia\obj\Debug\Inventa
 C:\Users\Crisanto\Desktop\Nueva carpeta (2)\InventarioFarmacia\obj\Debug\InventarioFarmacia.FormProducto.resources
 C:\Users\Crisanto\Desktop\Nueva carpeta (2)\InventarioFarmacia\obj\Debug\InventarioFarmacia.Properties.Resources.resources
 C:\Users\Crisanto\Desktop\Nueva carpeta (2)\InventarioFarmacia\obj\Debug\InventarioFarmacia.csproj.GenerateResource.Cache
+C:\Users\Crisanto\Source\Repos\InventarioFarmacia\InventarioFarmacia\bin\Debug\InventarioFarmacia.exe.config
+C:\Users\Crisanto\Source\Repos\InventarioFarmacia\InventarioFarmacia\obj\Debug\InventarioFarmacia.exe
+C:\Users\Crisanto\Source\Repos\InventarioFarmacia\InventarioFarmacia\obj\Debug\InventarioFarmacia.pdb
